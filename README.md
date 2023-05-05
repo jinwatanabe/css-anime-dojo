@@ -18,7 +18,6 @@ $ cd css-anime-dojo
 # Usage
 
 ```bash
-# Run realize
 $ make dev
 ```
 
